@@ -5,3 +5,8 @@ bamo tentar o teclado e o mouse
 
 não deu e não dá!
 
+<<<<<<< HEAD
+três hein!
+=======
+jóia agora sim!
+>>>>>>> ft-login
